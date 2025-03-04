@@ -206,27 +206,27 @@ header {
 }
 
 .card:nth-child(1) .card-photo {
-    background-image: url("https://images.unsplash.com/photo-1499636136210-6f4ee915583e");
+    background-image: url("photo/Oatmeal.png");
 }
 
 .card:nth-child(2) .card-photo {
-    background-image: url("https://images.unsplash.com/photo-1558961363-fa8fdf82db35");
+    background-image: url("photo/Chocolate.png");
 }
 
 .card:nth-child(3) .card-photo {
-    background-image: url("https://images.unsplash.com/photo-1548365328-8c6db3220e4c");
+    background-image: url("photo/Peanut.png");
 }
 
 .card:nth-child(4) .card-photo {
-    background-image: url("https://images.unsplash.com/photo-1532499016263-f2c3e89de9cd");
+    background-image: url("photo/Double.png");
 }
 
 .card:nth-child(5) .card-photo {
-    background-image: url("https://images.unsplash.com/photo-1605190557072-1fe6a230ee65");
+    background-image: url("photo/Snicker.png");
 }
 
 .card:nth-child(6) .card-photo {
-    background-image: url("https://images.unsplash.com/photo-1591376029559-8b8b6349d525");
+    background-image: url("photo/Lemon.png");
 }
 
 .card:hover .card-photo {
