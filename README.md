@@ -16,7 +16,7 @@ Cookie Delights is a beautifully designed landing page for a bakery specializing
 ## **📸 Screenshot**  
 
 ### **Landing Page**  
-![Full-body-screenshot](screenshots/127.0.0.1_5500_index.html.png)
+![Full-body-screenshot](yourbestdream.github.io_tum-web-lab2_.png)
 
 ---
 
@@ -38,5 +38,6 @@ Cookie Delights is a beautifully designed landing page for a bakery specializing
 ├── 📄 style.css    # Main stylesheet
 ├── 📄 reset.css    # CSS Reset
 ├── 📂 screenshots/ # Folder for project screenshots
+├── 📂 photos/ # Folder for project photos
 └── 📄 README.md    # This file
 ```
