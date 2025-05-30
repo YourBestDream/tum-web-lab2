@@ -16,7 +16,7 @@ Cookie Delights is a beautifully designed landing page for a bakery specializing
 ## **📸 Screenshot**  
 
 ### **Landing Page**  
-![Full-body-screenshot](yourbestdream.github.io_tum-web-lab2_.png)
+![Full-body-screenshot](screenshots/yourbestdream.github.io_tum-web-lab2_.png)
 
 ---
 
